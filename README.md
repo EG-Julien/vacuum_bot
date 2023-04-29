@@ -25,7 +25,7 @@ ros2 launch vacuum_bot launch_sim.launch.py
 
 If you now open RViz you should see the robot.
 
-_Note : It's possible that Gazebo can't find models. In this cases, copy models' folder to `vacuum_ws/install/vacuum_bot/share/vacuum_bot/models` :_
+_Note : It's possible that Gazebo can't find models. In this case, copy models' folder to `vacuum_ws/install/vacuum_bot/share/vacuum_bot/models` :_
 
 ```bash
 cp -r models ~/vacuum_ws/install/vacuum_bot/share/vacuum_bot
