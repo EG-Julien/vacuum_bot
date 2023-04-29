@@ -1,1 +1,0 @@
-/home/dev/vacuum_ws/src/vacuum_bot/launch/load_world.launch.py

@@ -1,8 +1,0 @@
-source;share/vacuum_bot/hook/cmake_prefix_path.ps1
-source;share/vacuum_bot/hook/cmake_prefix_path.dsv
-source;share/vacuum_bot/hook/cmake_prefix_path.sh
-source;share/vacuum_bot/local_setup.bash
-source;share/vacuum_bot/local_setup.dsv
-source;share/vacuum_bot/local_setup.ps1
-source;share/vacuum_bot/local_setup.sh
-source;share/vacuum_bot/local_setup.zsh

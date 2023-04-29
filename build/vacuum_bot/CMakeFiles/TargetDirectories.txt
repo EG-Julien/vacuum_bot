@@ -1,9 +1,0 @@
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/install/strip.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/install/local.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/install.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/list_install_components.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/rebuild_cache.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/edit_cache.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/test.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/vacuum_bot_uninstall.dir
-/home/dev/vacuum_ws/src/vacuum_bot/build/vacuum_bot/CMakeFiles/uninstall.dir
